@@ -1,0 +1,10 @@
+EXCLUDE_QUERY_DIR
+B /Users/wein/.opam/ocaml-variants.4.07.1+flambda/lib/base
+B /Users/wein/.opam/ocaml-variants.4.07.1+flambda/lib/core
+B /Users/wein/.opam/ocaml-variants.4.07.1+flambda/lib/stdio
+B _build/default/.rundemos.eobjs/byte
+S /Users/wein/.opam/ocaml-variants.4.07.1+flambda/lib/base
+S /Users/wein/.opam/ocaml-variants.4.07.1+flambda/lib/core
+S /Users/wein/.opam/ocaml-variants.4.07.1+flambda/lib/stdio
+S .
+FLG -w @a-4-29-40-41-42-44-45-48-58-59-60-40 -strict-sequence -strict-formats -short-paths -keep-locs
