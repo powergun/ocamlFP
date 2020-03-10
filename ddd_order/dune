@@ -1,0 +1,6 @@
+(library
+ (name order)
+ (libraries core base stdio re)
+ (inline_tests)
+ (preprocess (pps ppx_jane ppx_expect))
+ )
